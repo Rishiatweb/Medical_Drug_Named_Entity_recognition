@@ -1,1 +1,1 @@
-# Medical_Drug_Named_Entity_recognition
+# This Project is aimed to identify classify and understand drug labels from corpuses. It takes prompts and identifies what work a drug must be referred to. It is also used to analyze the average mass and monoisotopic mass distributions in clustered biomed data. It is a simple Named Entity recognition model that is doing the above claimed things.
